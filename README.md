@@ -21,6 +21,10 @@ The goal is not to remove engineering judgment. The goal is to help engineering 
 
 ## Live Demo
 
+Live site:
+
+https://codex-sdlc-deployment-playbook.vercel.app/
+
 The interactive demo turns the playbook into a display deck. Each card represents one SDLC surface where Codex can create leverage:
 
 1. Planning
